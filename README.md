@@ -1,7 +1,7 @@
 # 👋 Hello, je suis Mame Diarra Laye Djite !  
 🌱 Développeuse Web Full Stack | Passionnée d'innovation et d'entrepreneuriat 🚀  
 
-<img src="https://i.imgur.com/qIQTXrI.png" width="800" heigth:"400">
+<img src="https://i.imgur.com/qIQTXrI.png" width="800" height:"400">
 
  <!-- Remplace par l'URL de ta bannière si tu en as une -->
 
