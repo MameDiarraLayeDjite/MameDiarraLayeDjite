@@ -1,14 +1,26 @@
 # 👋 Hello, je suis Mame Diarra Laye Djite !  
 🌱 Développeuse Web Full Stack | Passionnée d'innovation et d'entrepreneuriat 🚀  
 
-![Banner](https://imgur.com/a/VPYkXVM) <!-- Remplace par l'URL de ta bannière si tu en as une -->
+[img]https://i.imgur.com/qIQTXrI.png[/img]
+ <!-- Remplace par l'URL de ta bannière si tu en as une -->
 
 ---
 
-## 🧐 À propos de moi
-🎓 Diplômée en Génie Logiciel & Informatique de Gestion  
-💡 Intéressée par le développement Web, l'agroalimentaire et les startups tech  
-📌 Actuellement en apprentissage approfondi de **React.js & Mobile Development**  
+## 🧐 À propos de moi  
+👋 Je suis **Mame Diarra Laye Djite**, une **Développeuse Web Full Stack** passionnée par la **technologie, l’innovation et l’entrepreneuriat**.  
+
+💡 J’adore **concevoir des solutions digitales innovantes** pour améliorer l’expérience utilisateur et répondre aux défis des entreprises. Mon objectif est de **créer des applications performantes, intuitives et impactantes**.  
+
+🚀 **Mes domaines de prédilection** :  
+- Développement **Front-end & Back-end** avec **Vue.js & Laravel**  
+- Création d’**applications web et PWA**  
+- Digitalisation des processus pour les PME & startups  
+- Apprentissage et veille technologique continue  
+
+🎯 Actuellement, je me spécialise en **React.js et développement mobile** pour élargir mes compétences et relever de nouveaux défis techniques.  
+
+✨ **Ma devise** : *"L’apprentissage est une aventure sans fin."*  
+ 
 
 ---
 
