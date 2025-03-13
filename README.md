@@ -1,7 +1,7 @@
 # 👋 Hello, je suis Mame Diarra Laye Djite !  
 🌱 Développeuse Web Full Stack | Passionnée d'innovation et d'entrepreneuriat 🚀  
 
-<img src="https://i.imgur.com/qIQTXrI.png" width="800">
+<!-- <img src="https://i.imgur.com/qIQTXrI.png" width="800"> -->
 
  <!-- Remplace par l'URL de ta bannière si tu en as une -->
 
@@ -70,7 +70,7 @@
 ## 🎨 Bonus :
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Développeuse+Web+Full+Stack;Passionnée+par+la+technologie;En+apprentissage+continu!)
 
-![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=MameDiarraLayeDjite.MameDiarraLayeDjite)
+<!-- ![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=MameDiarraLayeDjite.MameDiarraLayeDjite) -->
 
 <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400">
 
