@@ -4,8 +4,6 @@ Full Stack Web Developer based in Dakar, Senegal. I build web applications that 
 
 **What I do:** Design and develop full-stack web solutions from concept to deployment.
 
-**Currently:** Working with React, Node.js, and Python to create scalable applications.
-
 **Location:** 🇸🇳 Dakar, Senegal
 
 ---
@@ -44,36 +42,19 @@ Full Stack Web Developer based in Dakar, Senegal. I build web applications that 
 
 ---
 
-### 🚀 Pinned Projects
-
-**[Project Name](https://github.com/mamediarralaydejite/project-name)**  
-Description of your project and what it does. What problem does it solve?  
-`React` `Node.js` `PostgreSQL` `Docker`
-
-**[Project Name](https://github.com/mamediarralaydejite/project-name)**  
-Description of your project and what it does. What problem does it solve?  
-`Vue.js` `Laravel` `MySQL`
-
-**[Project Name](https://github.com/mamediarralaydejite/project-name)**  
-Description of your project and what it does. What problem does it solve?  
-`Next.js` `Django` `MongoDB`
-
----
-
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mamediarralaydejite&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=333&bg_color=ffffff)
+![](https://github-readme-stats.vercel.app/api?username=mamediarralayedjite&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=333&bg_color=ffffff)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mamediarralaydejite&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=333&bg_color=ffffff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mamediarralayedjite&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=333&bg_color=ffffff)
 
 ---
 
-### 📫 Contact
+## Contact
 
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
-
+- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/mame-diarra-laye-djit%C3%A9-319565345/)  
+- **Email:** [Send Email](mailto:your.mamediarralayedjite@gmail.com)  
+- **Portfolio:** [mywebsite.com](https://mamediarratech.great-site.net/)
 ---
 
 ![](https://komarev.com/ghpvc/?username=mamediarralaydejite&color=blue&style=flat)
