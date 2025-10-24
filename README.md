@@ -1,67 +1,67 @@
-<!-- ======================= -->
-<!--  🔥 HEADER & BANNIÈRE   -->
-<!-- ======================= -->
+<!-- ========================== -->
+<!--     PROFESSIONAL HEADER     -->
+<!-- ========================== -->
 
 <p align="center">
-  <img src="https://i.imgur.com/qIQTXrI.png" width="900" alt="Bannière professionnelle de Mame Diarra Laye Djité"/>
+  <!-- Replace this image with your custom banner -->
+  <img src="https://path-to-your-banner.png" width="900" alt="Mame Diarra Laye Djité - Full Stack Developer Banner"/>
 </p>
 
-<h1 align="center">👋 Salut, je suis <span style="color:#4FC08D;">Mame Diarra Laye Djité</span></h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#4FC08D;">Mame Diarra Laye Djité</span></h1>
 
 <p align="center">
-  💻 <strong>Développeuse Web Full Stack</strong> | 🚀 Passionnée par l’innovation et l’entrepreneuriat | 🌍 Basée au Sénégal  
+  💻 <strong>Full Stack Web Developer</strong> | 🚀 Passionate about Innovation & Entrepreneurship | 🌍 Based in Senegal
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mame-diarra-laye-djit%C3%A9-319565345/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/MameDiarraLayeDjite">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:mamediarra.djite@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👩‍💻 À propos de moi  
+## 🧠 About Me  
 
-Je suis **Développeuse Web Full Stack**, spécialisée dans la **création d’applications performantes et évolutives**.  
-Mon approche allie **rigueur technique**, **design orienté utilisateur** et **vision produit**.  
+I'm a **Full Stack Web Developer** dedicated to building scalable, user-centric digital products.  
+I enjoy transforming ideas into real-world applications that are **fast, functional, and visually engaging**.  
 
-💡 J’aime relever des défis techniques, collaborer sur des projets à fort impact et transformer des idées en produits digitaux concrets.  
+💡 I thrive at the intersection of **technology and innovation**, constantly exploring new tools to deliver meaningful solutions.  
 
-> 🎯 *Ma mission : Concevoir des expériences web qui allient performance, esthétique et utilité.*
-
----
-
-## 💼 Expérience professionnelle  
-
-**Développeuse Web Full Stack — Freelance**  
-📅 *2022 - Aujourd’hui*  
-🚀 Développement d’applications web sur mesure pour startups et PME  
-- Conception front-end avec **Vue.js / React.js**  
-- Développement back-end avec **Laravel / PHP / MySQL**  
-- Intégration d’API et déploiement cloud  
-- Optimisation des performances et de l’expérience utilisateur  
+> 🧭 *“Continuous learning is not a phase — it's a mindset.”*
 
 ---
 
-## 🎓 Formation  
+## 💼 Experience  
 
-🎓 **Licence en Informatique — Développement d’Applications Web**  
-📍 Université / Institut [à compléter]  
-📅 *2020 - 2023*  
-
-💬 Cours clés : Développement Web, Base de données, Programmation orientée objet, Frameworks modernes, UX/UI.  
+**Freelance Full Stack Developer**  
+📅 *2022 – Present*  
+- Building tailor-made web applications for startups and small businesses  
+- Frontend with **Vue.js**, **React.js**, and **Bootstrap**  
+- Backend development with **Laravel**, **PHP**, and **MySQL/PostgreSQL**  
+- Integrating REST APIs, optimizing UX/UI, and managing deployments  
 
 ---
 
-## ⚙️ Compétences techniques  
+## 🎓 Education  
 
-### 🧩 Langages & Frameworks  
+🎓 **Bachelor’s Degree in Computer Science – Web Application Development**  
+📍 [Your University Name], Senegal  
+📅 *2020 – 2023*  
+
+Key focus areas: Web Development, Databases, OOP, Frameworks, UI/UX, and Agile practices.  
+
+---
+
+## ⚙️ Tech Stack  
+
+### 💻 Languages & Frameworks  
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
@@ -71,7 +71,7 @@ Mon approche allie **rigueur technique**, **design orienté utilisateur** et **v
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🗄️ Base de données & Outils  
+### 🗄️ Databases & Tools  
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -82,15 +82,15 @@ Mon approche allie **rigueur technique**, **design orienté utilisateur** et **v
 
 ---
 
-## 🚀 Projets clés  
+## 🚀 Featured Projects  
 
-- 💼 **[Portfolio personnel](https://mamediarratech.great-site.net/)** — Présente mes projets, mon parcours et mes compétences.  
-- 📱 **[PWA de commande en ligne](https://github.com/MameDiarraLayeDjite/commande-pwa)** — Application moderne développée avec **Vue.js & Laravel**.  
-- ⚙️ **[API Gestion Utilisateurs](https://github.com/MameDiarraLayeDjite/api-gestion)** — API RESTful sécurisée avec Laravel Sanctum.  
+- 🌐 **[Portfolio Website](https://mamediarratech.great-site.net/)** – Showcasing my work and professional journey  
+- 📱 **[Online Ordering PWA](https://github.com/MameDiarraLayeDjite/commande-pwa)** – Modern ordering app built with **Vue.js + Laravel**  
+- ⚙️ **[User Management API](https://github.com/MameDiarraLayeDjite/api-gestion)** – RESTful API using **Laravel Sanctum**  
 
 ---
 
-## 📊 Statistiques GitHub  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MameDiarraLayeDjite&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -103,18 +103,18 @@ Mon approche allie **rigueur technique**, **design orienté utilisateur** et **v
 
 ---
 
-## 🌐 Me retrouver  
+## 🌍 Connect With Me  
 
-📫 **Email** : [mamediarra.djite@gmail.com](mailto:mamediarra.djite@gmail.com)  
-💼 **LinkedIn** : [Mame Diarra Laye Djité](https://www.linkedin.com/in/mame-diarra-laye-djit%C3%A9-319565345/)  
-💻 **Portfolio** : [mamediarratech.great-site.net](https://mamediarratech.great-site.net/)  
+📫 **Email:** [mamediarra.djite@gmail.com](mailto:mamediarra.djite@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/mame-diarra-laye-djité](https://www.linkedin.com/in/mame-diarra-laye-djit%C3%A9-319565345/)  
+💻 **GitHub:** [github.com/MameDiarraLayeDjite](https://github.com/MameDiarraLayeDjite)  
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Full+Stack+Developer;Créatrice+de+solutions+innovantes;Apprenante+à+vie;Toujours+curieuse+et+motivée!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Full+Stack+Developer;Innovator+%26+Problem+Solver;Continuous+Learner;Passionate+about+Technology"/>
 </p>
 
 ---
 
-✨ *Merci d’avoir visité mon profil ! N’hésitez pas à explorer mes projets ou à me contacter pour collaborer.*  
+✨ *Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration opportunities.*  
