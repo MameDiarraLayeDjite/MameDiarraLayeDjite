@@ -1,96 +1,86 @@
-Mame Diarra Laye Djité
+# Mame Diarra Laye Djité
 
-  
+**Full Stack Web Developer | Passionate About Technology Innovation & Open Source**  
+Dakar, Senegal
 
+---
 
+## About Me
 
-  Full Stack Developer | Dakar, Senegal
-  Architecting Scalable Web Solutions | Open Source Contributor | Technical Mentor
+I am a passionate Full Stack Web Developer with a strong interest in **technology innovation and open source projects**. I specialize in building **scalable, maintainable, and high-performance web applications**, focusing on both **frontend and backend architecture**.  
 
+I enjoy contributing to open source, exploring new technologies, and designing solutions that combine **modern frameworks** with **best development practices**. My goal is to deliver clean, modular, and efficient code while continuously learning and innovating in the web development space.
 
+---
 
-Overview
-I am a Full Stack Developer based in Dakar, Senegal, with extensive experience in designing and delivering high-performance web applications. My expertise spans modern frontend frameworks (React, Vue.js, Nuxt.js) and robust backend systems (Laravel, Node.js, Express, NestJS), with a focus on scalable architecture, clean code, and optimized user experiences. I have led development teams on projects ranging from e-commerce platforms to real-time analytics systems, consistently achieving measurable outcomes such as reduced latency and increased system reliability. Passionate about mentoring, open-source contributions, and staying at the forefront of web technologies.
+## Skills
 
-Location: Dakar, Senegal
-Current Focus: Leading full-stack initiatives with React, Nuxt.js, NestJS, and containerized deployments
-Contact: LinkedIn | Portfolio | mamediarra.djite@example.com
+**Frontend:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)  
 
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)  
 
-Technical Proficiencies
-Languages & Frameworks
+**Architecture & Practices:**  
+- Application architecture design (MVC, layered, modular)  
+- RESTful API design and integration  
+- State management (Redux, Vuex, Nuxt store)  
+- Authentication & Authorization (JWT, OAuth)  
+- Error handling, logging, and performance optimization  
+- CI/CD pipelines, Docker, and deployment best practices  
 
-Frontend: React (Redux, React Query), Vue.js (Vuex, Vuetify), Nuxt.js
-Backend: Laravel (PHP), Node.js, Express.js, NestJS
-APIs: RESTful APIs, GraphQL
-Languages: JavaScript (ES6+), TypeScript, PHP
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-Databases & Infrastructure
+---
 
-Databases: MySQL, PostgreSQL, MongoDB
-DevOps: Docker, AWS (ECS, Lambda, RDS), Heroku
-Version Control: Git, GitHub
-CI/CD: GitHub Actions, Jenkins
+## Selected Projects
 
-Practices
+**Recruitment Management Platform**  
+- Full-stack application for managing job postings and candidate tracking  
+- **Frontend:** React.js, Tailwind CSS | **Backend:** Node.js, Express, MongoDB  
+- Features: JWT authentication, role-based access, dynamic dashboard  
+- Focus: Modular architecture, scalable and maintainable code  
+- [Live Demo](#) | [GitHub Repo](#)
 
-Test-Driven Development (Jest, PHPUnit, Vitest)
-Microservices and Domain-Driven Design
-Performance optimization and security best practices
-Agile/Scrum leadership and mentoring
+**Dashboard & Data Visualization**  
+- Analytics dashboard built with React.js and MUI  
+- Interactive charts using Recharts  
+- Focus: Component-based architecture, responsive design, optimized state management  
+- [Live Demo](#) | [GitHub Repo](#)
 
+**Responsive Web Application**  
+- Vue.js frontend with Nuxt.js, Node.js backend with NestJS  
+- REST API integration, state management with Vuex/Nuxt store  
+- Focus: Clean layered architecture, modular, maintainable code  
+- [Live Demo](#) | [GitHub Repo](#)
 
-  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=%2361DAFB)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-  ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+---
 
+## GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
-Key Projects & Contributions
-Browse my GitHub repositories for detailed codebases and documentation.
-Open Source Contributions
+---
 
-CommerceCoreA modular e-commerce framework built with NestJS and React, supporting dynamic product catalogs and payment integrations. Reduced checkout latency by 35% through optimized API design.Tech Stack: NestJS, React, MongoDB, Stripe APIImpact: 3K+ stars; actively maintained with 10+ contributors.
+## Contact
 
-Enterprise Solutions
-
-Corporate PortalA server-side rendered corporate website with advanced content management and SEO capabilities, deployed with zero-downtime updates.Tech Stack: Nuxt.js, Tailwind CSS, PostgreSQLImpact: Improved page load times by 25% and boosted organic traffic by 15%.
-
-Side Project
-
-LiveAnalyticsA real-time analytics dashboard leveraging WebSockets and Dockerized microservices for scalable data visualization.Tech Stack: Node.js, Express, Vue.js, MongoDB, Chart.jsImpact: Deployed in production for a local startup, handling 1M+ data points daily.
-
-
-Impact & Recognition
-
-Mentorship: Guided 15+ junior developers through code reviews and technical workshops, fostering a culture of quality and collaboration.
-Community Contributions: Regular contributor to open-source libraries in the Vue.js and Laravel ecosystems; authored articles on microservices architecture.
-Technical Leadership: Spearheaded adoption of Docker and CI/CD pipelines, reducing deployment times by 50% in recent projects.
-
-
-  
-  
-
-
-
-  
-  
-
-
-
-Contact
-I am available for collaborations, consulting, or discussions on system design and web development trends. Connect with me via:
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mame-diarra-laye-djité-319565345)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://mamediarra.dev)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mamediarra.djite@example.com)
-
-
-
-  Last updated: October 2025
+- **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
+- **Email:** [your.email@example.com](mailto:your.email@example.com)  
+- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
