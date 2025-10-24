@@ -5,12 +5,12 @@ I build web applications that solve real problems from concept to deployment.
 
 ---
 
-### 🚀 What I Do
+###  What I Do
 Design and develop full-stack web solutions with modern technologies and best practices.
 
 ---
 
-### 💻 Tech Stack
+###  Tech Stack
 
 #### **Frontend**
 <div align="center">
@@ -53,7 +53,7 @@ Design and develop full-stack web solutions with modern technologies and best pr
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
 
@@ -70,19 +70,14 @@ Design and develop full-stack web solutions with modern technologies and best pr
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamediarralayedjite&layout=compact&theme=radical&hide_border=true&title_color=3b82f6&text_color=ffffff&bg_color=0d1117&langs_count=8)
 
 #### **Contribution Graph**
-  
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mamediarralayedjite&theme=react-dark&hide_border=true&area=true&color=3b82f6&line=3b82f6&point=ffffff)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mamediarralayedjite&theme=react-dark&hide_border=true&area=true&color=3b82f6&line=3b82f6&point=ffffff)
 
 </div>
 
 ---
 
-### 🌟 Featured Projects
-*(You can add your top repositories here with descriptions and links)*
-
----
-
-### 📫 Let's Connect
+###  Let's Connect
 
 <div align="center">
 
@@ -94,5 +89,5 @@ Design and develop full-stack web solutions with modern technologies and best pr
 </div>
 
 <p align="center">
-  <i>Open to collaborations and new opportunities!</i> ✨
+  <i>Open to collaborations and new opportunities!</i> 
 </p>
