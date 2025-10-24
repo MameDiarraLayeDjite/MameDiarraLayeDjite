@@ -1,7 +1,6 @@
 # Mame Diarra Laye Djité
 
-**Senior Full Stack Web Developer | Passionate About Technology Innovation & Open Source | Frontend & Backend Specialist | Vue.js, React.js, Nuxt.js, NestJS**  
-Dakar, Senegal
+**Full Stack Web Developer | Passionate About Technology Innovation & Open Source Enthusiast**
 
 ---
 
@@ -34,12 +33,12 @@ Dakar, Senegal
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MameDiarraLayeDjite&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MameDiarraLayeDjitelayout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MameDiarraLayeDjite&layout=compact&theme=radical)
 
 ---
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/mame-diarra-laye-djit%C3%A9-319565345/)  
+- **Email:** [Send Email](mailto:your.mamediarralayedjite@gmail.com)  
+- **Portfolio:** [mywebsite.com](https://mamediarratech.great-site.net/)
