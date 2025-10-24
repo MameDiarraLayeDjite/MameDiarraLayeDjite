@@ -1,106 +1,79 @@
-<div align="center">
+# 👋 Hello, je suis Mame Diarra Laye Djite !  
+🌱 Développeuse Web Full Stack | Passionnée d'innovation et d'entrepreneuriat 🚀  
 
-# 👋 Hi, I'm Mame Diarra Laye Djité
+<!-- <img src="https://i.imgur.com/qIQTXrI.png" width="800"> -->
 
-### Full Stack Web Developer • Dakar, Senegal 🇸🇳
-
-*1 percent better every day, creating cool stuff line after line* </> 
-
-[![wakatime](https://wakatime.com/badge/user/mamediarralaydejite.svg)](https://wakatime.com/@mamediarralaydejite)
-
-</div>
+ <!-- Remplace par l'URL de ta bannière si tu en as une -->
 
 ---
 
-## 🎯 About
+## 🧐 À propos de moi  
+👋 Je suis **Mame Diarra Laye Djite**, une **Développeuse Web Full Stack** passionnée par la **technologie, l’innovation et l’entrepreneuriat**.  
 
-Building scalable web applications with modern technologies from Dakar, Senegal. I enjoy solving complex problems and turning ideas into elegant, production-ready solutions. Currently focused on full-stack development with emphasis on performance and user experience.
+💡 J’adore **concevoir des solutions digitales innovantes** pour améliorer l’expérience utilisateur et répondre aux défis des entreprises. Mon objectif est de **créer des applications performantes, intuitives et impactantes**.  
 
-```javascript
-const mameDiarra = {
-  location: "Dakar, Senegal 🇸🇳",
-  role: "Full Stack Web Developer",
-  experience: ["Frontend Development", "Backend Architecture", "DevOps"],
-  currentlyLearning: ["Cloud Architecture", "Microservices", "System Design"],
-  languages: ["JavaScript", "TypeScript", "Python", "PHP"],
-  frameworks: ["React", "Vue", "Node.js", "Django", "Laravel"],
-  databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-  tools: ["Docker", "Git", "AWS", "Nginx", "Linux"]
-};
-```
+🚀 **Mes domaines de prédilection** :  
+- Développement **Front-end & Back-end** avec **Vue.js & Laravel**  
+- Création d’**applications web et PWA**  
+- Digitalisation des processus pour les PME & startups  
+- Apprentissage et veille technologique continue  
 
-## 🛠️ Technical Stack
+🎯 Actuellement, je me spécialise en **React.js et développement mobile** pour élargir mes compétences et relever de nouveaux défis techniques.  
 
-**Frontend:** React • Vue.js • Next.js • TypeScript • TailwindCSS • HTML5 • CSS3 • JavaScript
-
-**Backend:** Node.js • Express • Django • Laravel • RESTful APIs • GraphQL
-
-**Database:** PostgreSQL • MongoDB • MySQL • Redis
-
-**DevOps & Tools:** Docker • Git • AWS • CI/CD • Nginx • Linux
-
-**Testing:** Jest • Pytest • Cypress • PHPUnit
-
-## 📌 Featured Projects
-
-<details>
-<summary>View My Projects</summary>
-
-### 🚀 [Project Name]
-> A full-stack web application built with modern technologies. Add your project description here - what problem does it solve? What makes it unique?
-
-**Tech Stack:** React, Node.js, PostgreSQL, Docker  
-**Links:** [Live Demo](https://your-demo.com) • [Repository](https://github.com/mamediarralaydejite/project-name)
+✨ **Ma devise** : *"L’apprentissage est une aventure sans fin."*  
+ 
 
 ---
 
-### 🌟 [Project Name]
-> Describe your second project here. Focus on the impact and the technologies used.
+## 💻 Compétences & Technologies  
 
-**Tech Stack:** Vue.js, Laravel, MySQL  
-**Links:** [Live Demo](https://your-demo.com) • [Repository](https://github.com/mamediarralaydejite/project-name)
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mailtrap-000000?style=for-the-badge&logo=mailtrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p> 
 
----
-
-### 💡 [Project Name]
-> Your third featured project. Highlight what you learned and what makes it special.
-
-**Tech Stack:** Next.js, Django, MongoDB  
-**Links:** [Live Demo](https://your-demo.com) • [Repository](https://github.com/mamediarralaydejite/project-name)
-
-</details>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=mamediarralaydejite&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mamediarralaydejite&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mamediarralaydejite&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
-
-## 🤝 Let's Connect
-
-I'm always open to interesting conversations and collaboration opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mame-diarra-laye-djite)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mamediarra_dev)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mamediarra.djite@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=safari&logoColor=white)](https://mamediarra-portfolio.com)
 
 ---
 
-<div align="center">
+## 📊 Statistiques GitHub  
+![Mame's GitHub stats](https://github-readme-stats.vercel.app/api?username=MameDiarraLayeDjite&show_icons=true&theme=radical)  
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=MameDiarraLayeDjite&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mamediarralaydejite&color=58a6ff&style=flat)
+---
 
-*"Code is poetry written in logic."*
+## 💼 Projets en vedette :
+- 🚀 [Mon Portfolio](https://mamediarratech.great-site.net/) - Présentation de mes projets et compétences.
+- 📦 [PWA de commande en ligne](https://github.com/MameDiarraLayeDjite/commande-pwa) - Application innovante avec Vue.js & Laravel.
 
-**Open to freelance opportunities and collaborations**
+---
 
-🌍 Proudly building from Dakar, Senegal
+## 📫 Me contacter :
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mame-diarra-laye-djit%C3%A9-319565345/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MameDiarraLayeDjite)
 
-</div>
+---
+
+## 🎨 Bonus :
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Développeuse+Web+Full+Stack;Passionnée+par+la+technologie;En+apprentissage+continu!)
+
+<!-- ![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=MameDiarraLayeDjite.MameDiarraLayeDjite) -->
+
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400">
+
+---
+
+✨ **Merci d'avoir visité mon profil !** 😊  
