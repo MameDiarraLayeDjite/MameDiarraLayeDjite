@@ -69,9 +69,6 @@ Design and develop full-stack web solutions with modern technologies and best pr
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamediarralayedjite&layout=compact&theme=radical&hide_border=true&title_color=3b82f6&text_color=ffffff&bg_color=0d1117&langs_count=8)
 
-#### **Contribution Graph**
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mamediarralayedjite&theme=react-dark&hide_border=true&area=true&color=3b82f6&line=3b82f6&point=ffffff)
 
 </div>
 
