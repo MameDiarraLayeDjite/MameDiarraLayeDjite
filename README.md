@@ -55,6 +55,4 @@ Full Stack Web Developer based in Dakar, Senegal. I build web applications that 
 - **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/mame-diarra-laye-djit%C3%A9-319565345/)  
 - **Email:** [Send Email](mailto:your.mamediarralayedjite@gmail.com)  
 - **Portfolio:** [mywebsite.com](https://mamediarratech.great-site.net/)
----
 
-![](https://komarev.com/ghpvc/?username=mamediarralaydejite&color=blue&style=flat)
