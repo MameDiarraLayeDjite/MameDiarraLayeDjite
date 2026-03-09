@@ -28,8 +28,8 @@ Available for remote freelance work and long-term collaborations.
 
 ---
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=mamediarralayedjite&show_icons=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=6b7280&bg_color=ffffff&include_all_commits=true&count_private=true&hide_rank=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamediarralayedjite&layout=compact&hide_border=true&title_color=6366f1&text_color=6b7280&bg_color=ffffff&langs_count=6" />
+<!-- <img height="150" src="https://github-readme-stats.vercel.app/api?username=mamediarralayedjite&show_icons=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=6b7280&bg_color=ffffff&include_all_commits=true&count_private=true&hide_rank=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamediarralayedjite&layout=compact&hide_border=true&title_color=6366f1&text_color=6b7280&bg_color=ffffff&langs_count=6" /> -->
 
 ---
 
