@@ -3,7 +3,7 @@
 <br/>
 
 I build thoughtful, scalable web applications — from architecture to deployment.  
-Currently based in Dakar 🇸🇳, working with teams and clients across Africa and beyond.
+Currently based in Dakar, Senegal — working with teams and clients across Africa and beyond.
 
 <br/>
 
@@ -20,9 +20,9 @@ Currently based in Dakar 🇸🇳, working with teams and clients across Africa 
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=mamediarralayedjite&show_icons=true&hide_border=true&theme=github_dark&title_color=60a5fa&icon_color=60a5fa&text_color=94a3b8&bg_color=00000000&include_all_commits=true&count_private=true&hide_rank=true" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=mamediarralayedjite&show_icons=true&hide_border=true&title_color=60a5fa&icon_color=60a5fa&text_color=94a3b8&bg_color=0d1117&include_all_commits=true&count_private=true&hide_rank=true" />
 &nbsp;&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamediarralayedjite&layout=compact&hide_border=true&theme=github_dark&title_color=60a5fa&text_color=94a3b8&bg_color=00000000&langs_count=6" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamediarralayedjite&layout=compact&hide_border=true&title_color=60a5fa&text_color=94a3b8&bg_color=0d1117&langs_count=6" />
 
 </div>
 
