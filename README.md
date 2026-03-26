@@ -33,4 +33,4 @@ Available for remote freelance work and long-term collaborations.
 
 ---
 
-[Portfolio](https://mamediarratech.great-site.net) · [LinkedIn](https://www.linkedin.com/in/mame-diarra-laye-djit%C3%A9-319565345/) · [mamediarralayedjite@gmail.com](mailto:mamediarralayedjite@gmail.com)
+[Portfolio](https://mamediarralayedjite.vercel.app/fr) · [LinkedIn](https://www.linkedin.com/in/mame-diarra-laye-djit%C3%A9-319565345/) · [mamediarralayedjite@gmail.com](mailto:mamediarralayedjite@gmail.com)
