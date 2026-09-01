@@ -1,18 +1,10 @@
-<div align="center">
-
-# Hi, I'm **Mame Diarra** 👋
+# Hi, I'm Mame Diarra 👋
 
 ### Full-Stack Developer · Freelance · Digital Solutions
 
-<p>
-<strong>I build modern, reliable and practical digital solutions</strong>  
+I build **modern, reliable and practical digital solutions** for entrepreneurs, startups and businesses.
 
-  for entrepreneurs, startups and businesses.
-</p> <p>
-  <a href="https://mdltech.site/"><strong>🌐 Visit my portfolio</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mame-diarra-laye-djité"><strong>💼 Connect on LinkedIn</strong></a>
-</p> </div>
+I'm building my freelance activity and I'm open to new projects **in Senegal and internationally.**
 
 ---
 
