@@ -1,133 +1,75 @@
-<div align="center">
-
-# MAME DIARRA
+# Hi, I'm Mame Diarra 👋
 
 ### Full-Stack Developer · Freelance · Digital Solutions
 
-<br>
+I build **modern, reliable and practical digital solutions** for entrepreneurs, startups and businesses.
 
-**I build modern digital solutions for entrepreneurs, startups and businesses.**
-
-*Building my freelance activity and open to new projects*
-*in Senegal 🇸🇳 and internationally 🌍.*
-
-<br><br>
-
-[ **EXPLORE MY WORK →** ](https://mdltech.site/)
-[ **LINKEDIN ↗** ](https://www.linkedin.com/in/mame-diarra-laye-djité)
-
-<br><br>
-
-</div>
+I'm building my freelance activity and I'm open to new projects **in Senegal and internationally.**
 
 ---
 
-<div align="center">
+## 🚀 What I Build
 
-## WHAT I BUILD
-
-**Digital solutions designed to turn ideas into something real.**
-
-</div>
-
-<br>
-
-|                 01                |             02             |            03           |
-| :-------------------------------: | :------------------------: | :---------------------: |
-|          🌐 **Websites**          |      🛒 **E-commerce**     | 💻 **Web Applications** |
-| Business websites & landing pages | Small e-commerce solutions | Custom web applications |
-
-|                 04                 |                 05                 |
-| :--------------------------------: | :--------------------------------: |
-|         🛠️ **Maintenance**        |         🔌 **Integrations**        |
-| Website maintenance & improvements | API integrations & custom features |
+| | Services |
+|---|---|
+| 🌐 | **Business Websites & Landing Pages** |
+| 🛒 | **E-commerce Solutions** |
+| 💻 | **Custom Web Applications** |
+| 🛠️ | **Website Maintenance & Improvements** |
+| 🔌 | **API Integrations & Custom Features** |
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-## THE STACK
-
-*The technologies I use to turn ideas into digital products.*
-
-</div>
-
-<br>
-
-### FRONTEND
+### Frontend
 
 `JavaScript` · `Vue.js` · `React.js` · `Next.js` · `HTML` · `CSS`
 
-### BACKEND
+### Backend
 
 `Laravel` · `PHP` · `Node.js` · `Nest.js` · `Python`
 
-### DATABASE
+### Database
 
 `MySQL` · `SQL`
 
-### TOOLS & PLATFORMS
+### Tools & Platforms
 
 `Git` · `GitHub` · `WordPress`
 
 ---
 
-<div align="center">
+## 📌 Featured Projects
 
-## FEATURED PROJECTS
+I'm currently selecting and documenting some of my best projects.
 
-**I'm currently selecting and documenting some of my best projects.**
-
-*More projects coming soon.*
-
-<br>
-
-`BUILDING` · `DOCUMENTING` · `SHARING`
-
-</div>
+**More projects coming soon.**
 
 ---
 
-<div align="center">
+## 🌐 Portfolio
 
-## MY WORK
-
-### From idea → to practical digital solution.
-
-<br>
-
-[ **VISIT MY PORTFOLIO →** ](https://mdltech.site/)
-
-</div>
+[**→ Visit my portfolio**](https://mdltech.site/)
 
 ---
 
-## FREELANCE
+## 🤝 Freelance
 
 I'm available for freelance projects **in Senegal and internationally.**
 
 I help businesses turn their **ideas and needs into practical digital solutions.**
 
-If you have a digital project or need technical support,
-**feel free to get in touch.**
-
-<br>
-
-<div align="center">
-
-### HAVE A PROJECT IN MIND?
-
-[ **LET'S CONNECT →** ](https://www.linkedin.com/in/mame-diarra-laye-djit%C3%A9)
-
-<br><br>
+If you have a digital project or need technical support, **feel free to get in touch.**
 
 ---
 
-**Mame Diarra**
-*Full-Stack Developer · Freelance · Digital Solutions*
+## 📫 Contact
 
-<br>
+[💼 LinkedIn](https://www.linkedin.com/in/mame-diarra-laye-djité) · [🌐 Portfolio](https://mdltech.site/)
 
-[🌐 Portfolio](https://mdltech.site/) · [💼 LinkedIn](https://www.linkedin.com/in/mame-diarra-laye-djité)
+---
 
-</div>
+<p align="center">
+  <b>Let's build something useful.</b>
+</p>
