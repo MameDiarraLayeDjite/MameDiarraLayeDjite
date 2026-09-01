@@ -83,7 +83,7 @@ If you have a digital project or need technical support, **feel free to get in t
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mame-diarra-laye-djité">💼 LinkedIn</a>  ·  <a href="https://mdltech.site/">🌐 Portfolio</a>
+<a href="https://www.linkedin.com/in/mame-diarra-laye-djité"> LinkedIn</a>  ·  <a href="https://mdltech.site/"> Portfolio</a>
 
 </div>
 <div align="center">
