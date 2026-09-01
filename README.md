@@ -1,36 +1,63 @@
-### Mame Diarra Laye Djité
+# Hi, I'm Mame Diarra 👋
 
-Full Stack Web & Mobile Developer · Dakar, Sénégal
+### Full-Stack Developer | Freelance | Digital Solutions
 
-I build scalable web and mobile products end-to-end — from architecture to deployment.
-Available for remote freelance work and long-term collaborations.
+I build modern digital solutions for entrepreneurs, startups and businesses.
 
----
+I'm currently developing my freelance activity and I'm open to projects
+in Senegal and internationally.
 
-**Stack**
+## 🚀 What I build
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- 🌐 Business websites & landing pages
+- 🛒 Small e-commerce solutions
+- 💻 Custom web applications
+- 🛠️ Website maintenance & improvements
+- 🔌 API integrations and custom features
 
----
+## 🛠️ Tech Stack
 
-**What I ship**
+### Frontend
+JavaScript · Vue.js · React.js · Next.js · HTML · CSS
 
-- SaaS applications — auth, billing, multi-tenancy, dashboards
-- Full-stack web apps — REST APIs, responsive UIs, clean architecture
-- Mobile apps — cross-platform with React Native
+### Backend
+Laravel · PHP · Node.js · Nest.js · Python
 
----
+### Database
+MySQL · SQL
 
-<!-- <img height="150" src="https://github-readme-stats.vercel.app/api?username=mamediarralayedjite&show_icons=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=6b7280&bg_color=ffffff&include_all_commits=true&count_private=true&hide_rank=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamediarralayedjite&layout=compact&hide_border=true&title_color=6366f1&text_color=6b7280&bg_color=ffffff&langs_count=6" /> -->
+### Tools
+Git · GitHub · WordPress
 
----
+<!-- ## 📌 Featured Projects
 
-[Portfolio](https://mdltech.site/) · [LinkedIn](https://www.linkedin.com/in/mame-diarra-laye-djit%C3%A9-319565345/) · [mamediarralayedjite@gmail.com](mailto:mamediarralayedjite@gmail.com)
+### Project 1
+Short description of the project.
+
+**Tech:** Vue.js · Laravel · MySQL
+
+### Project 2
+Short description of the project.
+
+**Tech:** JavaScript · PHP · SQL
+
+### Project 3
+Short description of the project.
+
+**Tech:** ... -->
+
+## 🌐 Site
+
+[Visit my Site](https://mdltech.site/)
+
+## 🤝 Freelance
+
+Available for freelance projects in Senegal and internationally.
+
+If you have a digital project or need technical support,
+feel free to get in touch.
+
+## 📫 Contact
+
+- LinkedIn: [Mame Diarra Laye Djité](www.linkedin.com/in/mame-diarra-laye-djité)
+- Site: https://mdltech.site/
